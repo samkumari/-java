@@ -172,7 +172,7 @@ class Librarian {
     }
 }
 
-public class Main {
+public class LibrarySystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Library library = new Library(1, "Central Library", "Main Street", "123456789");
